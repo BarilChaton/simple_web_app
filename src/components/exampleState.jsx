@@ -29,6 +29,7 @@ const ExampleState = (props) => {
           <button className='w-1/3 p-2 bg-white border-4 border-black rounded-lg text-black text-lg font-bold shadow-xl'
             onClick={() => handleClick()}>Click Me!</button>
         </div>
+        <h3 className='text-lg'>Check your redux inspector to se the change.</h3>
       </div>
     </div>
   )
