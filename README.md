@@ -7,7 +7,7 @@ This boilerplate code is built with specifically beginner front-end devs in mind
 
 ### Installing dependencies(Do this first!):
 ### `npm install`
-.\
+
 PS: Don't worry about "vulnerabilities" warnings.\
 The boilerplate has been tested to work eitherway.\
 When all the NPM packages are installed run:
