@@ -1,24 +1,25 @@
-# Getting Started with Create React App
+# Simple-Web-App Boilerplate Code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple-Web-App is a simple React web app boilerplate code with pre-done Redux and TailwindCSS setup.\
+This boilerplate code is built with specifically beginner front-end devs in mind.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
-
+### Installing dependencies(Do this first!):
+### `npm install`
+.\
+PS: Don't worry about "vulnerabilities" warnings.\
+The boilerplate has been tested to work eitherway.\
+When all the NPM packages are installed run:
 ### `npm start`
+or
+### `npm run start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Depending on your preference to start development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+It will open automatically in your default browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
+### Build the project using:
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -26,8 +27,13 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### Other scripts:\
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run eject`
 
@@ -39,32 +45,33 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+# Documentation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Dependencies list:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+1. reduxJS/toolkit, version: `1.9.5`
+1. react, version: `18.2.0`
+1. react-custom-scrollbars-2, version: `4.5.0`
+1. react-icons, version: `4.8.0`
+1. react-loader-spinner, version: `5.3.4`
+1. react-redux, version: `8.1.1`
+1. react-router-dom, version: `6.14.0`
+1. redux, version: `4.2.1`
+1. tailwindcss, version: `3.3.2`
+```
 
-### Code Splitting
+## How to use the dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[React](https://reactjs.org/).
+[Redux](https://redux.js.org/usage/).
+[React-Custom-Scrollbars-2](https://github.com/malte-wessel/react-custom-scrollbars/tree/master/docs).
+[React-Icons](https://react-icons.github.io/react-icons/).
+[React-Loader-Spinner](https://mhnpd.github.io/react-loader-spinner/docs/intro).
+[Tailwind CSS](https://tailwindcss.com/docs/preflight).
 
-### Analyzing the Bundle Size
+This boilerplate comes with example code for state handling in Redux, feel free to remove or rewrite it when you've skimmed through it.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# License
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT license, Copyright (c) 2023 Christian Karlsson Korbacz (BarilChaton). For more information see [LICENSE.md](/LICENSE.md).
