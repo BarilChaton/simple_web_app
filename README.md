@@ -5,14 +5,12 @@ This boilerplate code is built with specifically beginner front-end devs in mind
 
 ## Getting Started
 
-### Installing dependencies(Do this first!):
+### Installing dependencies(Do this first!)
 ### `npm install`
 
 PS: Don't worry about "vulnerabilities" warnings.\
 The boilerplate has been tested to work eitherway.\
-When all the NPM packages are installed run:
-### `npm start`
-or
+When all the NPM packages are installed run 
 ### `npm run start`
 
 Depending on your preference to start development mode.\
@@ -51,14 +49,14 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ```
 1. reduxJS/toolkit, version: `1.9.5`
-1. react, version: `18.2.0`
-1. react-custom-scrollbars-2, version: `4.5.0`
-1. react-icons, version: `4.8.0`
-1. react-loader-spinner, version: `5.3.4`
-1. react-redux, version: `8.1.1`
-1. react-router-dom, version: `6.14.0`
-1. redux, version: `4.2.1`
-1. tailwindcss, version: `3.3.2`
+2. react, version: `18.2.0`
+3. react-custom-scrollbars-2, version: `4.5.0`
+4. react-icons, version: `4.8.0`
+5. react-loader-spinner, version: `5.3.4`
+6. react-redux, version: `8.1.1`
+7. react-router-dom, version: `6.14.0`
+8. redux, version: `4.2.1`
+9. tailwindcss, version: `3.3.2`
 ```
 
 ## How to use the dependencies
@@ -71,6 +69,12 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 [Tailwind CSS](https://tailwindcss.com/docs/preflight).
 
 This boilerplate comes with example code for state handling in Redux, feel free to remove or rewrite it when you've skimmed through it.
+
+## Updates
+
+```
+2023-7-27: First version released.
+2023-7-28: Updated README.md
 
 # License
 
