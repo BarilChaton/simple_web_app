@@ -1,4 +1,4 @@
-import { setExampleAction } from '../redux/actions'
+import { setExampleAction } from 'reduxActions'
 
 import React from 'react'
 import reducer from '../redux/reducers/reducer'

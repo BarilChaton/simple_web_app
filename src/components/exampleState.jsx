@@ -3,7 +3,7 @@
 * Remove this if you like :)
 */
 
-import { setExampleAction } from '../redux/actions'
+import { setExampleAction } from 'reduxActions'
 import { connect } from 'react-redux'
 
 const ExampleState = (props) => {
